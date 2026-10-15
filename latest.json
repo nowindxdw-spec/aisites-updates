@@ -1,0 +1,19 @@
+{
+    "product":  "aisites",
+    "version":  "0.4.0",
+    "tag":  "v0.4.0",
+    "publishedAt":  "2026-10-15T13:05:22Z",
+    "repo":  "github.com/nowindxdw-spec/aisites-updates",
+    "apiLatest":  "https://api.github.com/repos/nowindxdw-spec/aisites-updates/releases/latest",
+    "download":  "https://github.com/nowindxdw-spec/aisites-updates/releases/download/v0.4.0/aisites-v0.4.0.zip",
+    "sha256":  "6ced7cd80807e22bcb21a8cb5163cd69d826246a0aa57aad873922c6b5bab012",
+    "assets":  [
+                   {
+                       "name":  "aisites-v0.4.0.zip",
+                       "sizeBytes":  278582,
+                       "sha256":  "6ced7cd80807e22bcb21a8cb5163cd69d826246a0aa57aad873922c6b5bab012"
+                   }
+               ],
+    "updateScript":  "https://raw.githubusercontent.com/nowindxdw-spec/aisites-updates/main/update-latest.ps1",
+    "installNote":  "解压后 npm install \u0026\u0026 npm start（:9787 编辑器+API，:9788 预览/发布站）"
+}
